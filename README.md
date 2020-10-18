@@ -1,4 +1,4 @@
-## 🎨 WordPress Docker Example
+## 🎨 WordPress Docker Setup with WPCLI
 [![Project Status: Active.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 ![Stars](https://img.shields.io/github/stars/imranhsayed/wordpress-docker-wp-cli?label=%E2%AD%90%20Stars)
 ![Forks](https://img.shields.io/github/forks/imranhsayed/wordpress-docker-wp-cli?color=%23ff69b4)
